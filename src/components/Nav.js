@@ -120,6 +120,11 @@ const NavAlt = props => {
                   </StyledLink>
                 </div>
                 <div>
+                  <StyledLink to="/resources" className={classes.button}>
+                    Resources
+                  </StyledLink>
+                </div>
+                <div>
                   <StyledLink to="/projects" className={classes.button}>
                     Projects
                   </StyledLink>
